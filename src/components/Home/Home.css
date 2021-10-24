@@ -1,0 +1,21 @@
+
+.active {
+  color: #2C7A7B;
+}
+
+.sidebar-item {
+  font-size: large;
+}
+
+.sidebar-item p {
+  margin-left: 1em;
+}
+
+.sidebar-item:hover p {
+  color: #2C7A7B;
+}
+
+.sidebar-item:hover svg {
+  color: #805AD5;
+}
+
