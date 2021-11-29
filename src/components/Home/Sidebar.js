@@ -19,7 +19,7 @@ function Sidebar() {
               bgClip="text"
               fontWeight="extrabold"
             >
-              cloud-app-2
+              cloud-app-3
             </Heading>
           </Flex>
         </Link>
